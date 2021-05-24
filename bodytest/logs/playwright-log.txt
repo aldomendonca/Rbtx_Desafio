@@ -1,0 +1,66 @@
+{"level":30,"time":"2021-05-24T12:03:41.629Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Listening on 59119"}
+{"level":30,"time":"2021-05-24T12:03:42.941Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-05-24T12:03:42.957Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active context"}
+{"level":30,"time":"2021-05-24T12:03:43.262Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-24T12:03:43.262Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active page"}
+{"level":30,"time":"2021-05-24T12:03:48.113Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2021-05-24T12:03:58.170Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active context"}
+{"level":30,"time":"2021-05-24T12:03:58.170Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-24T12:03:58.170Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active page"}
+{"level":30,"time":"2021-05-24T12:03:58.188Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active context"}
+{"level":30,"time":"2021-05-24T12:03:58.188Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-24T12:03:58.188Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active page"}
+{"level":30,"time":"2021-05-24T12:03:59.027Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-05-24T12:03:59.040Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active context"}
+{"level":30,"time":"2021-05-24T12:03:59.422Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-24T12:03:59.422Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active page"}
+{"level":30,"time":"2021-05-24T12:04:04.001Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2021-05-24T12:04:12.970Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active context"}
+{"level":30,"time":"2021-05-24T12:04:12.970Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-24T12:04:12.970Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active page"}
+{"level":30,"time":"2021-05-24T12:04:12.985Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active context"}
+{"level":30,"time":"2021-05-24T12:04:12.985Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-24T12:04:12.985Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active page"}
+{"level":30,"time":"2021-05-24T12:04:13.819Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-05-24T12:04:13.834Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active context"}
+{"level":30,"time":"2021-05-24T12:04:14.159Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-24T12:04:14.159Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active page"}
+{"level":30,"time":"2021-05-24T12:04:18.711Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved text for element css=aside strong containing Administrador"}
+{"level":30,"time":"2021-05-24T12:04:26.430Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:26.480Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:26.518Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:26.547Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:26.577Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:26.610Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:26.638Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:26.672Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:26.704Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:26.739Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:26.781Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:26.812Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:26.843Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:26.874Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:26.909Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:26.938Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:26.969Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:27.000Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:27.035Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:27.076Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:27.111Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:27.143Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:27.172Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:27.204Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:27.234Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:27.263Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:27.296Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:27.327Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:27.360Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:27.388Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:27.418Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:27.452Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Retrieved attribute for element css=input[name=total] containing R$ 0,00"}
+{"level":30,"time":"2021-05-24T12:04:29.879Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active context"}
+{"level":30,"time":"2021-05-24T12:04:29.879Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-24T12:04:29.879Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active page"}
+{"level":30,"time":"2021-05-24T12:04:29.893Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active context"}
+{"level":30,"time":"2021-05-24T12:04:29.893Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-24T12:04:29.894Z","pid":272,"hostname":"DESKTOP-4M515SQ","msg":"Changed active page"}

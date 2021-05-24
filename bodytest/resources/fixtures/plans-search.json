@@ -1,0 +1,21 @@
+{   
+    "word": "Plano",
+    "total": 3,
+    "plans": [
+        {
+            "title": "Plano Mensal",
+            "duration": "1",
+            "price": 100.00
+        },
+        {
+            "title": "Plano Trimestral",
+            "duration": "3",
+            "price": 90.00
+        },
+        {
+            "title": "Plano Semestral",
+            "duration": "6",
+            "price": 70.00
+        }
+    ]
+}
